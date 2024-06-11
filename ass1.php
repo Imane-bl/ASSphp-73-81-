@@ -1,6 +1,7 @@
 <?php
 
-
+$var=rand(10,20);
+print_r($var);
 
 
 // Example
